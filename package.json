@@ -20,7 +20,7 @@
     "mapbox-gl": "^1.10.1",
     "mapbox-gl-directions": "^3.0.3",
     "stats-js": "^1.0.1",
-    "three": "^0.116.1",
+    "three": "^0.137.0",
     "three-gltf-loader": "^1.111.0",
     "three-orbitcontrols": "^2.110.3",
     "vue": "^2.6.11",
