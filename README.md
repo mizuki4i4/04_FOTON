@@ -1,7 +1,8 @@
 
 # FOTON
 https://vimeo.com/user121615921
-[<iframe title="vimeo-player" src="https://player.vimeo.com/video/448971918?h=75d57db4bd" width="640" height="400" frameborder="0" allowfullscreen></iframe>]([https://www.youtube.com/watch?v=Hc79sDi3f0U](https://player.vimeo.com/video/448971918?h=75d57db4bd) "Now in Android: 55")
+
+[<iframe title="vimeo-player" src="https://player.vimeo.com/video/448971918?h=75d57db4bd" width="640" height="400" frameborder="0" allowfullscreen></iframe>]
 
 ## Project setup
 ```
